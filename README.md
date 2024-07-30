@@ -1,12 +1,15 @@
-# Projeto Calculadora IMC Simples.
+## Projeto: Calculadora IMC
 
-Tecnologias utilizadas: HTML, CSS e JavaScript.
+**Tecnologias utilizadas:**
 
-<!-- ### Instalação:
+- [HTML]()
+- [CSS]()
+- [Javascript]()
 
-- `npm install` -->
+## Instalação:
 
-### Para rodar:
+- `npm i ou npm install`
 
-- `Eu uso a extensão Live Server`
-- `Também pode ser executado direto pelo arquivo HTML`
+## Para rodar:
+
+- `Live Server`
